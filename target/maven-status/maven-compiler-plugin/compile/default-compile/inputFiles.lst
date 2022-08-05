@@ -1,6 +1,8 @@
 D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\operationImpl\InnerJoinOperation.java
 D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\rows\DataRow.java
 D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\operationImpl\RightJoinOperation.java
+D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\utils\JoinedDataRowsBuilder.java
 D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\rows\JoinedDataRow.java
+D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\utils\DataRowsBuilder.java
 D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\operationImpl\LeftJoinOperation.java
 D:\Programming\GitRepo\alexey_klieshchunov\src\main\java\ua\klieshchunov\task\JoinOperation.java
